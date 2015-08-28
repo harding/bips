@@ -6,6 +6,12 @@ Having a BIP here does not make it a formally accepted standard until its status
 
 Those proposing changes should consider that ultimately consent may rest with the consensus of the Bitcoin users (see also: [https://en.bitcoin.it/wiki/Economic_majority economic majority]).
 
+<table>
+  <tr>
+    <td style="background-color: red">Foo</td>
+  </tr>
+</table>
+
 {| class="wikitable sortable" style="width: auto; text-align: center; font-size: smaller; table-layout: fixed;"
 !Number
 !Title
