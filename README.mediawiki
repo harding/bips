@@ -12,7 +12,7 @@ Those proposing changes should consider that ultimately consent may rest with th
 !Owner
 !Type
 !Status
-|- style="background-color: #cfffcf"
+|- style="background-color: red"
 | [[bip-0001.mediawiki|1]]
 | BIP Purpose and Guidelines
 | Amir Taaki
